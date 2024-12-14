@@ -1,0 +1,9 @@
+﻿  OpenGL3DTemplate.cpp
+  box.cpp
+  human.cpp
+C:\Users\andre\OneDrive\Desktop\Andrew\_GUC\Projects\Sem7\Graphics\Milestone2\SoccerShootoutGame\human.cpp(9,10): warning C4101: 'tex': unreferenced local variable
+  tex.cpp
+C:\Users\andre\OneDrive\Desktop\Andrew\_GUC\Projects\Sem7\Graphics\Milestone2\SoccerShootoutGame\tex.cpp(13,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+OpenGL3DTemplate.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  OpenGL3DTemplate.vcxproj -> C:\Users\andre\OneDrive\Desktop\Andrew\_GUC\Projects\Sem7\Graphics\Milestone2\SoccerShootoutGame\Debug\OpenGL3DTemplate.exe

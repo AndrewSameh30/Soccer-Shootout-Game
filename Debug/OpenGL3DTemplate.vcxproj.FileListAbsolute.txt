@@ -1,0 +1,2 @@
+C:\Users\andre\OneDrive\Desktop\Sem7\OpenGL3DTemplate_24784\OpenGL3DTemplate\Debug\OpenGL3DTemplate.exe
+C:\Users\andre\OneDrive\Desktop\OpenGL3DTemplate_24784\OpenGL3DTemplate\Debug\OpenGL3DTemplate.exe
